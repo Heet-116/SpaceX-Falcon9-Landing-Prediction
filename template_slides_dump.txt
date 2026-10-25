@@ -1,0 +1,225 @@
+=== SLIDE 1 ===
+  Shape 0 (TextBox 5, type=TEXT_BOX (17)): '<Name>\n<Date>'
+  Shape 1 (Picture 2, type=PICTURE (13)): '[Picture]'
+
+=== SLIDE 2 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '2'
+  Shape 1 (Content Placeholder 2, type=TEXT_BOX (17)): 'Executive Summary\nIntroduction\nMethodology\nResults\nConclusion\nAppendix'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Outline'
+
+=== SLIDE 3 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '3'
+  Shape 1 (Content Placeholder 2, type=TEXT_BOX (17)): 'Summary of methodologies\nSummary of all results'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Executive Summary'
+
+=== SLIDE 4 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '4'
+  Shape 1 (Title 1, type=TEXT_BOX (17)): 'Introduction'
+  Shape 2 (Content Placeholder 2, type=TEXT_BOX (17)): 'Project background and context\nProblems you want to find answers'
+
+=== SLIDE 5 ===
+  Shape 0 (Slide Number Placeholder 2, type=PLACEHOLDER (14)): '5'
+  Shape 1 (TextBox 1, type=TEXT_BOX (17)): 'Section 1'
+
+=== SLIDE 6 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '6'
+  Shape 1 (Content Placeholder 2, type=TEXT_BOX (17)): 'Executive Summary\nData collection methodology:\nDescribe how data was collected\xa0\nPerform data\xa0wrangling\nDescribe how data was processed\nPerform exploratory data analysis (EDA) using visualization and\xa0SQL\nPerform interactive visual analytics using Folium and\xa0Plotly\xa0Dash\nPerform predictive analysis using classification models\nHow to build, tune, evaluate classification models\n\n\n\n\n'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Methodology'
+
+=== SLIDE 7 ===
+  Shape 0 (Slide Number Placeholder 5, type=PLACEHOLDER (14)): '7'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Describe how data sets were collected. \nYou need to present your data collection process use key phrases and flowcharts\n'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Data Collection'
+
+=== SLIDE 8 ===
+  Shape 0 (Slide Number Placeholder 5, type=PLACEHOLDER (14)): '8'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): '\n\n\n\nPlace your flowchart of SpaceX API calls here'
+  Shape 2 (Text Placeholder 2, type=PLACEHOLDER (14)): 'Present your data collection with SpaceX REST calls using key phrases and flowcharts\n\nAdd the GitHub URL of the completed SpaceX API calls notebook (must include completed code cell and outcome cell), as an external reference and peer-review purpose\n\n'
+  Shape 3 (Title 1, type=TEXT_BOX (17)): 'Data Collection – SpaceX API'
+
+=== SLIDE 9 ===
+  Shape 0 (Slide Number Placeholder 5, type=PLACEHOLDER (14)): '9'
+  Shape 1 (Text Placeholder 2, type=PLACEHOLDER (14)): 'Present your web scraping process using key phrases and flowcharts\n\nAdd the GitHub URL of the completed web scraping notebook, as an external reference and peer-review purpose'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): ''
+  Shape 3 (Title 1, type=TEXT_BOX (17)): 'Data Collection - Scraping'
+  Shape 4 (Content Placeholder 4, type=TEXT_BOX (17)): '\n\n\n\nPlace your flowchart of web scraping here'
+
+=== SLIDE 10 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '10'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Describe how data were processed\nYou need to present your data wrangling process using key phrases and flowcharts\nAdd the GitHub URL of your completed data wrangling related notebooks, as an external reference and peer-review purpose\n\n\n'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Data Wrangling'
+
+=== SLIDE 11 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '11'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Summarize what charts were plotted and why you used those charts\nAdd the GitHub URL of your completed EDA with data visualization notebook, as an external reference and peer-review purpose\n'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'EDA with Data Visualization'
+
+=== SLIDE 12 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '12'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Using bullet point format, summarize the SQL queries you performed\nAdd the GitHub URL of your completed EDA with SQL notebook, as an external reference and peer-review purpose\n\n\n'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'EDA with\xa0SQL'
+
+=== SLIDE 13 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '13'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Summarize what map objects such as markers, circles, lines, etc. you created and added to a folium map\nExplain why you added those objects\nAdd the GitHub URL of your completed interactive map with Folium map, as an external reference and peer-review purpose\n\n'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Build an Interactive Map with Folium'
+
+=== SLIDE 14 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '14'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Summarize what plots/graphs and interactions you have added to a dashboard\nExplain why you added those plots and interactions\nAdd the GitHub URL of your completed Plotly Dash lab, as an external reference and peer-review purpose\n'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Build a Dashboard with Plotly Dash'
+
+=== SLIDE 15 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '15'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Summarize how you built, evaluated, improved, and found the best performing classification model\nYou need present your model development process using key phrases and flowchart\nAdd the GitHub URL of your completed predictive analysis lab, as an external reference and peer-review purpose\n'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Predictive Analysis (Classification)'
+
+=== SLIDE 16 ===
+  Shape 0 (Content Placeholder 2, type=TEXT_BOX (17)): 'Exploratory data analysis results\nInteractive analytics demo in screenshots\nPredictive analysis results\n\n'
+  Shape 1 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '16'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Results'
+
+=== SLIDE 17 ===
+  Shape 0 (TextBox 1, type=TEXT_BOX (17)): 'Section 2'
+
+=== SLIDE 18 ===
+  Shape 0 (Slide Number Placeholder 4, type=PLACEHOLDER (14)): '18'
+  Shape 1 (Content Placeholder 2, type=PLACEHOLDER (14)): 'Show a scatter plot of\xa0Flight Number vs. Launch Site\n\nShow the screenshot of the scatter plot with explanations'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Flight Number vs. Launch\xa0Site'
+
+=== SLIDE 19 ===
+  Shape 0 (Slide Number Placeholder 4, type=PLACEHOLDER (14)): '19'
+  Shape 1 (Content Placeholder 2, type=PLACEHOLDER (14)): 'Show a scatter plot of\xa0Payload vs. Launch Site\n\nShow the screenshot of the scatter plot with explanations'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Payload vs. Launch Site'
+
+=== SLIDE 20 ===
+  Shape 0 (Slide Number Placeholder 4, type=PLACEHOLDER (14)): '20'
+  Shape 1 (Content Placeholder 2, type=PLACEHOLDER (14)): 'Show a bar chart for the success rate of each orbit type\n\nShow the screenshot of the scatter plot with explanations'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Success Rate vs. Orbit Type'
+
+=== SLIDE 21 ===
+  Shape 0 (Slide Number Placeholder 4, type=PLACEHOLDER (14)): '21'
+  Shape 1 (Content Placeholder 2, type=PLACEHOLDER (14)): 'Show a scatter point of Flight number vs. Orbit type\n\nShow the screenshot of the scatter plot with explanations'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Flight Number vs. Orbit Type'
+
+=== SLIDE 22 ===
+  Shape 0 (Slide Number Placeholder 4, type=PLACEHOLDER (14)): '22'
+  Shape 1 (Content Placeholder 2, type=PLACEHOLDER (14)): 'Show a scatter point of payload vs. orbit type\n\nShow the screenshot of the scatter plot with explanations'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Payload vs. Orbit\xa0Type'
+
+=== SLIDE 23 ===
+  Shape 0 (Slide Number Placeholder 4, type=PLACEHOLDER (14)): '23'
+  Shape 1 (Content Placeholder 2, type=PLACEHOLDER (14)): 'Show a line chart of yearly average success rate\n\nShow the screenshot of the scatter plot with explanations'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Launch Success Yearly Trend'
+
+=== SLIDE 24 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '24'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Find the names of the unique launch sites\nPresent your query result with a short explanation here'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'All Launch Site Names'
+
+=== SLIDE 25 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '25'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Find 5 records where launch sites begin with `CCA`\nPresent your query result with a short explanation here'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): "Launch Site Names Begin with 'CCA'"
+
+=== SLIDE 26 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '26'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Calculate the total payload carried by boosters from NASA\nPresent your query result with a short explanation here'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Total Payload Mass'
+
+=== SLIDE 27 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '27'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Calculate the average payload mass carried by booster version F9 v1.1\nPresent your query result with a short explanation here'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Average Payload Mass by F9 v1.1'
+
+=== SLIDE 28 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '28'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Find the dates of the first successful landing outcome on ground pad\nPresent your query result with a short explanation here'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'First Successful Ground Landing Date'
+
+=== SLIDE 29 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '29'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'List the names of boosters which have successfully landed on drone ship and had payload mass greater than 4000 but less than 6000\n\nPresent your query result with a short explanation here'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Successful Drone Ship Landing with Payload between 4000 and 6000'
+
+=== SLIDE 30 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '30'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Calculate the total number of successful and failure mission outcomes\nPresent your query result with a short explanation here'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Total Number of Successful and Failure\xa0Mission Outcomes'
+
+=== SLIDE 31 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '31'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'List the names of the booster which have carried the maximum payload mass\nPresent your query result with a short explanation here'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Boosters Carried Maximum\xa0Payload'
+
+=== SLIDE 32 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '32'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'List the failed\xa0landing_outcomes in drone ship, their booster versions, and\xa0launch site names for in year 2015\n\nPresent your query result with a short explanation here'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): '2015 Launch Records'
+
+=== SLIDE 33 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '33'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Rank the count of landing outcomes (such as Failure (drone ship) or Success (ground pad)) between the date 2010-06-04 and 2017-03-20, in descending order\n\nPresent your query result with a short explanation here'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Rank Landing Outcomes Between 2010-06-04 and 2017-03-20'
+
+=== SLIDE 34 ===
+  Shape 0 (TextBox 6, type=TEXT_BOX (17)): 'Section 3'
+
+=== SLIDE 35 ===
+  Shape 0 (Slide Number Placeholder 2, type=PLACEHOLDER (14)): '35'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Replace <Folium map screenshot 1> title with an appropriate title\n\nExplore the generated folium map and make a proper screenshot to include all launch sites’ location markers on a global map\n\nExplain the important elements and findings on the screenshot\n'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): '<Folium Map Screenshot 1>'
+
+=== SLIDE 36 ===
+  Shape 0 (Slide Number Placeholder 2, type=PLACEHOLDER (14)): '36'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Replace <Folium map screenshot 2> title with an appropriate title\n\nExplore the folium map and make a proper screenshot to show the color-labeled launch outcomes on the map\n\nExplain the important elements and findings on the screenshot\n'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): '<Folium Map Screenshot 2>'
+
+=== SLIDE 37 ===
+  Shape 0 (Slide Number Placeholder 2, type=PLACEHOLDER (14)): '37'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Replace <Folium map screenshot 3> title with an appropriate title\n\nExplore the generated folium map and show the screenshot of a selected launch site to its proximities such as railway, highway, coastline, with distance calculated and displayed\n\nExplain the important elements and findings on the screenshot\n'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): '<Folium Map Screenshot 3>'
+
+=== SLIDE 38 ===
+  Shape 0 (TextBox 1, type=TEXT_BOX (17)): 'Section 4'
+
+=== SLIDE 39 ===
+  Shape 0 (Slide Number Placeholder 2, type=PLACEHOLDER (14)): '39'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Replace <Dashboard screenshot 1> title with an appropriate title\n\nShow the screenshot of launch success count for all sites, in a piechart\n\nExplain the important elements and findings on the screenshot\n'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): '<Dashboard Screenshot 1>'
+
+=== SLIDE 40 ===
+  Shape 0 (Slide Number Placeholder 2, type=PLACEHOLDER (14)): '40'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Replace <Dashboard screenshot 2> title with an appropriate title\n\nShow the screenshot of the piechart for the launch site with highest launch success ratio\n\nExplain the important elements and findings on the screenshot\n'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): '<Dashboard Screenshot 2>'
+
+=== SLIDE 41 ===
+  Shape 0 (Slide Number Placeholder 2, type=PLACEHOLDER (14)): '41'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Replace <Dashboard screenshot 3> title with an appropriate title\n\nShow screenshots of Payload vs. Launch Outcome scatter plot for all sites, with different payload selected in the range slider\n\nExplain the important elements and findings on the screenshot, such as which payload range or booster version have the largest success rate, etc.\n'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): '<Dashboard Screenshot 3>'
+
+=== SLIDE 42 ===
+  Shape 0 (TextBox 1, type=TEXT_BOX (17)): 'Section 5'
+
+=== SLIDE 43 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '43'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Visualize the built model accuracy for all built classification models, in a bar chart\n\nFind which model has the highest classification accuracy'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Classification Accuracy'
+
+=== SLIDE 44 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '44'
+  Shape 1 (Content Placeholder 4, type=PLACEHOLDER (14)): 'Show the confusion matrix of the best performing model with an explanation '
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Confusion Matrix'
+
+=== SLIDE 45 ===
+  Shape 0 (Slide Number Placeholder 3, type=PLACEHOLDER (14)): '45'
+  Shape 1 (Content Placeholder 3, type=PLACEHOLDER (14)): 'Point 1\nPoint 2\nPoint 3\nPoint 4\n…'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Conclusions'
+
+=== SLIDE 46 ===
+  Shape 0 (Slide Number Placeholder 5, type=PLACEHOLDER (14)): '46'
+  Shape 1 (Content Placeholder 3, type=PLACEHOLDER (14)): 'Include any relevant assets like Python code snippets, SQL queries, charts, Notebook outputs, or data sets that you may have created during this project'
+  Shape 2 (Title 1, type=TEXT_BOX (17)): 'Appendix'
+
+=== SLIDE 47 ===
+
